@@ -1,3 +1,4 @@
+# docker build -t infracloud/app-mono-api .
 FROM drydock/u14nod:prod
 
 # this folder must be created in the base images

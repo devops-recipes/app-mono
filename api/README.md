@@ -1,4 +1,4 @@
-# API microservice readme.
+# API microservice README.
 
 API micro service written in Node.js..
 
